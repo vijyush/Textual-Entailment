@@ -20,7 +20,7 @@ Necessary libraries and modules to run the code:
 -Transformers
 
 ### Project Approach:
-#### 1.Loading the datasets:
+#### 1.Loading the datasets(New Section):
 -Download the datasets from above link and save to the google drive.
 -Mount your google drive to access the datasets and define the path to your dataset files located in google drive(Replace your path in the code to run successfully).
 #### 2.Expolaratory Data Analysis:
