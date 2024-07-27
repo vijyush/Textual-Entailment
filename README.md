@@ -6,7 +6,7 @@ For any two sentences, there are three ways they could be related: one could ent
 This repository contains the implementation of a Textual Entailment project using the Stanford Natural Language Inference (SNLI) dataset.The main objective of this project is to develop and evaluate models that can accurately determine whether a given hypothesis is entailed by a premise. The models are trained on the SNLI dataset, which provides labeled sentence pairs.The project was developed and executed using Google Colab, leveraging its powerful computational resources for deep learning tasks.
 
 ### Requirements:
-![Download the SNLI datasets from the official website:](https://nlp.stanford.edu/projects/snli/)
+[Download the SNLI datasets from the official website:](https://nlp.stanford.edu/projects/snli/)
 Necessary libraries and modules to run the code:
 -Pandas
 -Matplotlib
