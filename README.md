@@ -46,16 +46,16 @@ Necessary libraries and modules to run the code:
 -Prepare Data: Load and preprocess data.
 -Build and Train: Set up and train the model.
 -Evaluate: Evaluate the model’s performance.
-### DistillBERT 
-        DistilBERT is a smaller, faster, and lighter version of BERT, designed to be more efficient while retaining a significant portion of BERT's performance.DistilBERT has approximately 60% of the parameters of the original BERT model and retains about 97% of BERT's performance on various NLP benchmarks.It is faster to train and infer due to its reduced size, which is advantageous for large-scale datasets like SNLI Datasets(used in above project).It captures complex contextual relationships in text through self-attention mechanisms.It leverages pre-trained knowledge to perform well on textual entailment tasks after fine-tuning on specific datasets.
+### DistillBERT: 
+  DistilBERT is a smaller, faster, and lighter version of BERT, designed to be more efficient while retaining a significant portion of BERT's performance.DistilBERT has approximately 60% of the parameters of the original BERT model and retains about 97% of BERT's performance on various NLP benchmarks.It is faster to train and infer due to its reduced size, which is advantageous for large-scale datasets like SNLI Datasets(used in above project).It captures complex contextual relationships in text through self-attention mechanisms.It leverages pre-trained knowledge to perform well on textual entailment tasks after fine-tuning on specific datasets.
 
 ### Resources:
-![SNLI DATASETS](https://nlp.stanford.edu/projects/snli/)
-![Reference for EDA](https://medium.com/@navamisunil174/exploratory-data-analysis-of-breast-cancer-survival-prediction-dataset-c423e4137e38)
-![Reference to know the structure of the project](https://www.kaggle.com/code/nupurroy/kernel674ca09f2c#XLM-RoBERTa-Model:-(Large))
-![Reference for Wordcloud](https://medium.com/@natashanewbold/creating-a-wordcloud-using-python-a905efc3c288)
+[SNLI DATASETS](https://nlp.stanford.edu/projects/snli/)
+[Reference for EDA](https://medium.com/@navamisunil174/exploratory-data-analysis-of-breast-cancer-survival-prediction-dataset-c423e4137e38)
+[Reference to know the structure of the project](https://www.kaggle.com/code/nupurroy/kernel674ca09f2c#XLM-RoBERTa-Model:-(Large))
+[Reference for Wordcloud](https://medium.com/@natashanewbold/creating-a-wordcloud-using-python-a905efc3c288)
 
-###### Drawback: The accuracy is not as expected.we have to work on it.
+###### Drawback: This is our first project,the accuracy is not as expected.we have to work on it.We will. 
 
 
 
