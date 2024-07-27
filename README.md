@@ -8,6 +8,7 @@ This repository contains the implementation of a Textual Entailment project usin
 ### Requirements:
 [Download the SNLI datasets from the official website:](https://nlp.stanford.edu/projects/snli/)
 Necessary libraries and modules to run the code:
+
 -Pandas
 -Matplotlib
 -Seaborn
