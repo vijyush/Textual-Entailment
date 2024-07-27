@@ -24,9 +24,9 @@ Necessary libraries and modules to run the code:
 -Download the datasets from above link and save to the google drive.
 -Mount your google drive to access the datasets and define the path to your dataset files located in google drive(Replace your path in the code to run successfully).
 #### 2.Expolaratory Data Analysis:
- summary of the dataset including shape, data types, and basic statistics.
- Identify any missing values,duplicates values and eliminated .
- Analysing the distribution of entailment labels(i.e.,gold_labels).
+ -summary of the dataset including shape, data types, and basic statistics.
+ -Identify any missing values,duplicates values and eliminated .
+ -Analysing the distribution of entailment labels(i.e.,gold_labels).
 #### 3.Text Analysis:
  -Calculation and visualisation of the length of hypothesis(sentence_1) and premise(sentence_2) texts.
 #### 4.Overview of Word Distribution:
